@@ -85,10 +85,11 @@ diamond-price-prediction/
 ├── 📊 Diamond_price_prediction_note.ipynb  # Complete analysis notebook
 ├── 🚀 app.py                              # Streamlit web application
 ├── 🔧 requirements.txt                     # Project dependencies
-├── 📈 data.csv                            # Raw dataset
-├── 🤖 xgboost_diamond_model.pkl           # Trained XGBoost model
+├── 📈 data.csv                            # Raw dataset (53,940 diamonds)
+├── 🤖 diamond_price_model.pkl             # Trained XGBoost model
 ├── 🔄 power_transformer.pkl               # Feature transformer
 ├── 💾 final_dataset.pkl                   # Processed dataset
+├── 📸 screenshots/                        # App interface images
 └── 📋 README.md                           # Project documentation
 ```
 
