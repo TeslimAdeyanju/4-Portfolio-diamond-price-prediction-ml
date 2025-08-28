@@ -13,11 +13,13 @@ joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 MarkupSafe==3.0.2
+matplotlib==3.7.2
 narwhals==1.35.0
 numpy==2.2.4
 packaging==24.2
 pandas==2.2.3
 pillow==11.2.1
+plotly==5.17.0
 protobuf==5.29.4
 pyarrow==19.0.1
 pydeck==0.9.1
@@ -28,6 +30,7 @@ requests==2.32.3
 rpds-py==0.24.0
 scikit-learn==1.6.1
 scipy==1.15.2
+seaborn==0.12.2
 six==1.17.0
 smmap==5.0.2
 streamlit==1.44.1
@@ -38,3 +41,4 @@ tornado==6.4.2
 typing_extensions==4.13.2
 tzdata==2025.2
 urllib3==2.4.0
+xgboost==2.1.3
