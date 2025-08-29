@@ -206,8 +206,7 @@ app_validation.py
 # *.json
 # *.parquet
 
-# Screenshots folder (until you add actual screenshots)
-screenshots/
+# Temporary images folder only
 images/temp/
 
 # Documentation that's redundant
