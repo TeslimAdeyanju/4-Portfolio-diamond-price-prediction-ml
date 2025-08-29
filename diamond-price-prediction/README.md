@@ -36,29 +36,18 @@ This project demonstrates a comprehensive machine learning pipeline for predicti
 
 ### 📱 App Preview
 
+<!-- Add screenshots after deployment -->
 <details>
-<summary>📸 View App Screenshots (Click to expand)</summary>
+<summary>📸 View App Screenshots</summary>
 
-<br>
+![App Interface](screenshots/app-interface.png)
+*Main interface with diamond parameter inputs*
 
-#### 🎛️ Main Interface
-<img src="screenshots/app-interface.png" alt="Diamond Price Predictor Interface" width="700"/>
+![Prediction Results](screenshots/prediction-results.png)
+*Real-time price prediction display*
 
-*Professional Streamlit interface with sidebar controls for diamond parameters*
-
-<br>
-
-#### 📊 Prediction Results  
-<img src="screenshots/prediction-results.png" alt="Price Prediction Results" width="700"/>
-
-*Real-time price predictions with detailed breakdowns and confidence metrics*
-
-<br>
-
-#### 📈 Data Visualization
-<img src="screenshots/historical-chart.png" alt="Diamond Price Distribution" width="700"/>
-
-*Interactive charts showing diamond price patterns and market insights*
+![Historical Data](screenshots/historical-chart.png)
+*Diamond price distribution visualization*
 
 </details>
 
