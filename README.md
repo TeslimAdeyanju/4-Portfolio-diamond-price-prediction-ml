@@ -1,17 +1,23 @@
-# Quick Start
+# Project Title
 
-Clone the repository and navigate to the project directory:
-```bash
-git clone https://github.com/TeslimAdeyanju/4-Portfolio-diamond-price-prediction-ml.git
-cd 4-Portfolio-diamond-price-prediction-ml
-```
+A brief description of your project and its purpose.
 
-Install the required packages:
-```bash
-pip install -r diamond-price-prediction/requirements.txt
-```
+## Quick Start
 
-Run the Streamlit app:
-```bash
-streamlit run diamond-price-prediction/app.py
-```
+git clone https://github.com/TeslimAdeyanju/4-Portfolio-diamond-price-prediction-ml.git ; cd 4-Portfolio-diamond-price-prediction-ml ; pip install -r diamond-price-prediction/requirements.txt ; streamlit run diamond-price-prediction/app.py
+
+## Installation Instructions
+
+Include any installation instructions necessary for your project. This may involve installation of packages, dependencies, or other setup instructions.
+
+## Usage
+
+Add usage instructions and examples.
+
+## Contributing
+
+If you would like to contribute to this project, please follow the guidelines outlined in CONTRIBUTING.md.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
